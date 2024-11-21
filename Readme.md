@@ -14,8 +14,8 @@ This project focuses on fine-tuning OpenAI's GPT-3.5 Turbo model to classify dru
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/Montegan/drug_fintuned
+cd drug_fintuned
 ```
 ````
 
@@ -57,7 +57,7 @@ python main.py
 
 ## **View the Detailed Implementation**
 
-For a step-by-step explanation of the fine-tuning process, testing logic, and interactive demo, refer to the [Google Slides Presentation](#).
+For a step-by-step explanation of the fine-tuning process, testing logic, and interactive demo, refer to the [https://docs.google.com/presentation/d/14pGa3vzO6w2SvJkJ9FKEojE4KF2Zzp2mxyxUUBobIJU/edit?usp=sharing](#).
 
 > **Replace the placeholder (#) with the link to your Google Slides.**
 
